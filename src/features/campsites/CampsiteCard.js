@@ -16,4 +16,4 @@ const CampsiteCard = ({ campsite }) => {
     );
 };
 
-export default CampsiteCard 
+export default CampsiteCard;
