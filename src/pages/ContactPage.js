@@ -1,6 +1,5 @@
 import { Container, Row, Col } from "reactstrap";
-import SubHeader from '../components/SubHeader';
-import ContactForm from "../components/ContactForm";
+import { SubHeader, ContactForm } from '../components';
 
 const ContactPage = () => {
     return (
